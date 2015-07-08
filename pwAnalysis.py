@@ -1,6 +1,6 @@
 ## Password strength
 print(
-    "Password strength measured against brute force cracking",
+    "Password strength measured against linear brute force cracking",
     "Length > Complexity"
     "Pending Development: Customizable (order and content) character list"
       )
